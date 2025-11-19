@@ -123,6 +123,8 @@ git checkout newBranches
   - [JM] (https://github.com/JM020117)
   - [WanzhouW] (https://github.com/WanzhouW)
   - [zhangyu] (https://github.com/zhangyu-zj)
+  - [zhangyu] (https://github.com/zhangyu-zj)
+  - [zhangyu] (https://github.com/zhangyu-zj)
 
 
 
